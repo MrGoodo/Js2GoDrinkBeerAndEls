@@ -6,3 +6,12 @@ if (age >= 18) {
 } else {
   console.log("Иди ищи колу и детское питание");
 }
+
+//Задание с true и False (не уверен что правильно сделал)//
+
+function myFn(a, b) {
+  let c = true;
+  let f = false;
+  if (a == b) return c;
+  else return f;
+}
